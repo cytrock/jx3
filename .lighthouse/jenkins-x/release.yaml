@@ -15,6 +15,7 @@ spec:
           name: ""
           resources:
             # override limits for all containers here
+            
             limits:
               cpu: 400m
               memory: 256Mi
